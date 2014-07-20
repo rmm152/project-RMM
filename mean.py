@@ -1,4 +1,4 @@
-#This is a test.
+#This is a test.  --successful test
 # Print the mean of the numbers in a given file
 import sys
 
