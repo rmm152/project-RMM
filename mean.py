@@ -8,4 +8,4 @@ for num in sys.stdin:
 	sum += float(num)
 	n += 1
 
-print sum /n
+return sum /n
