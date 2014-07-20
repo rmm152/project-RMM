@@ -1,3 +1,4 @@
+#This is a test.
 # Print the mean of the numbers in a given file
 import sys
 
